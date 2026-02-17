@@ -5,7 +5,7 @@ Estudiante de ingeniería a tiempo completo, diseñador freelance y desarrollado
 
 ### Contacto
 <p align="left">
-  <a href="https://x.com/NashBacket">
+  <a href="https://github.com/nxsh-lol">
     <img src="assets/Platform=Github.svg" width="300"/>
   </a>
 </p>
@@ -16,7 +16,16 @@ Estudiante de ingeniería a tiempo completo, diseñador freelance y desarrollado
   </a>
 </p>
 
-- Perfil de Discord: https://discord.com/users/721036574263083026
-- Mail: mailto:andrs.perzc@gmail.com
+<p align="left">
+  <a href="https://x.com/NashBacket">
+    <img src="assets/Platform=Twitter.svg" width="300"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="mailto:andrs.perzc@gmail.com">
+    <img src="assets/Platform=Mail.svg" width="300"/>
+  </a>
+</p>
 
 //-- :3
