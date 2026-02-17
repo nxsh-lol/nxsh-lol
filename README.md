@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Bienvenido a mi repositorio!**
+https://imgur.com/a/CH17tTN
 
 ## Sobre mí
 - Soy rustkly. Tengo 16 años, soy originario de Colombia y soy fiel amante de los gatos, de arduino y del desarrollo web. Asímismo soy un fan asérrimo de Bluey. Adquirí y programé enteramente mi propio dominio web, al igual que adquirí mi propio kit de arduino con fines educativos y ilustrativos. Soy editor por vocación y en algún momento llegué a aportar en la comunidad de Roblox, consiguiendo impactar en la comunidad con al menos **1 millón de visitas** entre todas las comunidades en las que alguna vez participé cumpliendo cualquiera de los roles por los que se me contactase.
