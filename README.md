@@ -4,7 +4,12 @@
 Estudiante de ingeniería a tiempo completo, diseñador freelance y desarrollador en Roblox. He impactado con al menos **1 millón de visitas** en la plataforma (y contando).
 
 ### Contacto
-- [![Mi Botón](assets/Platform=Github.svg)](https://x.com/NashBacket)
+<p align="left">
+  <a href="https://x.com/NashBacket">
+    <img src="assets/Platform=Github.svg" width="20"/>
+  </a>
+</p>
+
 - GitHub: https://github.com/Rustkly
 - Perfil de Discord: https://discord.com/users/721036574263083026
 - Mail: mailto:andrs.perzc@gmail.com
