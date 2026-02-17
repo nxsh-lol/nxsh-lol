@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="625" height="133" viewBox="0 0 625 133">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #121212;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #dedede;
+      }
+
+      .cls-3 {
+        font-size: 25px;
+        text-anchor: middle;
+        font-family: Metropolis;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <rect id="Rectángulo_1" data-name="Rectángulo 1" class="cls-1" width="625" height="133" rx="20" ry="20"/>
+  <rect id="Rectángulo_2" data-name="Rectángulo 2" class="cls-2" x="-0.5" width="133" height="133"/>
+  <text id="Mail" class="cls-3" transform="translate(370.988 89.284) scale(2.72)"><tspan x="0">Mail</tspan></text>
+  <image id="svgviewer-output_1_" data-name="svgviewer-output (1)" x="26" y="33" width="81" height="67" xlink:href="data:img/png;base64,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"/>
+</svg>
