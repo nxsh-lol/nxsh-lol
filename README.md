@@ -6,7 +6,7 @@ Estudiante de ingeniería a tiempo completo, diseñador freelance y desarrollado
 ### Contacto
 <p align="left">
   <a href="https://x.com/NashBacket">
-    <img src="assets/Platform=Github.svg" width="80"/>
+    <img src="assets/Platform=Github.svg" width="200"/>
   </a>
 </p>
 
