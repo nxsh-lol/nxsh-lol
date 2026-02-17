@@ -6,11 +6,16 @@ Estudiante de ingeniería a tiempo completo, diseñador freelance y desarrollado
 ### Contacto
 <p align="left">
   <a href="https://x.com/NashBacket">
-    <img src="assets/Platform=Github.svg" width="200"/>
+    <img src="assets/Platform=Github.svg" width="300"/>
   </a>
 </p>
 
-- GitHub: https://github.com/Rustkly
+<p align="left">
+  <a href="https://www.roblox.com/es/users/74756643/profile">
+    <img src="assets/Platform=Roblox.svg" width="300"/>
+  </a>
+</p>
+
 - Perfil de Discord: https://discord.com/users/721036574263083026
 - Mail: mailto:andrs.perzc@gmail.com
 
